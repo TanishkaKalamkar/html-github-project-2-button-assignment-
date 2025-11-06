@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+/* Basic button style for all */
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Button 1 - light green */
+.btn1 {
+  background-color: rgb(204, 243, 170);
+  border-radius: 8px;
+}
+
+/* Button 2 - pink */
+.btn2 {
+  background-color: rgb(255, 179, 179);
+  border-radius: 20px;
+}
+
+/* Button 3 - light blue */
+.btn3 {
+  background-color: rgb(179, 229, 252);
+  border-radius: 30px;
+}
+
+/* Button 4 - orange with border */
+.btn4 {
+  background-color: rgb(255, 204, 128);
+  border: 2px solid orange;
+}
+
+/* Button 5 - purple shadow */
+.btn5 {
+  background-color: rgb(224, 176, 255);
+  box-shadow: 2px 2px 5px gray;
+}
+
+/* Button 6 - yellow bold */
+.btn6 {
+  background-color: rgb(255, 255, 153);
+  font-weight: bold;
+}
+
+/* Button 7 - white outline */
+.btn7 {
+  background-color: white;
+  border: 2px solid gray;
+}
